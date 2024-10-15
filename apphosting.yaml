@@ -20,4 +20,4 @@ env:
   # Grant access to secrets in Cloud Secret Manager.
   # See https://firebase.google.com/docs/app-hosting/configure#secret-parameters
   - variable: HELLO
-    secret: projects/612076856518/secrets/HELLO/versions/2
+    value: 'Andi Irham'
